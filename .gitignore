@@ -1,10 +1,12 @@
 .vscode
 *__pycache__
-
+.ipynb_checkpoints/
+dcgm/
 # directories
 cache/
 dataset/
 exp_output/
+/pretrained
 
 # checkpoint paths
 *.npz
